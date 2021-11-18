@@ -1,6 +1,7 @@
-# GAMES103 HomeWork 基于物理的计算机动画入门
+# GAMES103 HomeWork 
 ## Lab 1: [Angry Bunny](./HW1/) 
-### 点击标题查看详情
+
+- 点击标题查看详情
 
 ## 作业福利
 
