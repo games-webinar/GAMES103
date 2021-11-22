@@ -2,6 +2,7 @@
 ## Lab 1: [Angry Bunny](./HW1/) 
 
 - 点击标题查看详情
+- [作业提交](http://www.smartchair.org/GAMES103)
 
 ## 作业福利
 

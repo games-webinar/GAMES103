@@ -1,6 +1,7 @@
 # Lab 1: Angry Bunny
 
 ## 作业提交时间（21.12.06）
+- [提交地址](http://www.smartchair.org/GAMES103)
 
 ## 作业要求：详见附件
 
