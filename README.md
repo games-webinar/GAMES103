@@ -4,6 +4,16 @@
 - 点击标题查看详情
 - [作业提交](http://www.smartchair.org/GAMES103)
 
+## Lab 2: [Cloth Simulation](./HW2/) 
+
+- 点击标题查看详情
+- [作业提交](http://www.smartchair.org/GAMES103)
+
+## Lab 3: [Bouncy House](./HW3/) 
+
+- 点击标题查看详情
+- [作业提交](http://www.smartchair.org/GAMES103)
+
 ## 作业福利
 
 GAMES103送知识送技术送福利!
