@@ -1,6 +1,6 @@
 # Lab 3: Bouncy House
 
-## 作业提交时间（22.03.01）
+## 作业提交时间（22.01.03）
 - [提交地址](http://www.smartchair.org/GAMES103)
 
 ## 作业要求：详见附件
