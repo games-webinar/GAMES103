@@ -14,6 +14,10 @@
 - 点击标题查看详情
 - [作业提交](http://www.smartchair.org/GAMES103)
 
+## Lab 4: [Pool Ripples](./HW4/) 
+
+- 点击标题查看详情
+- [作业提交](http://www.smartchair.org/GAMES103)
 ## 作业福利
 
 GAMES103送知识送技术送福利!
